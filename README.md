@@ -5,7 +5,7 @@ The following analysis to be carried out:
  - visualization of general trends over time
  - defining relative popularity 
  - assigning rank for each name per year 
- - reasoning name´s popularity sudden changes
+ - reasoning name popularity sudden changes
  - identifying the most popular unisex names
 
 
