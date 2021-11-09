@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-The following analysis to be carried out:
+
+he following analysis to be carried out:
  - first basic inspection
  - identifying evergreen names
  - defining the most popular names of all times
@@ -40,4 +40,3 @@ Imported libraries:
 - numpy
 - matplotlib.pyplot
 - seaborn
->>>>>>> master
