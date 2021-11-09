@@ -1,3 +1,5 @@
+Exploratory Data Analysis
+
 The following analysis to be carried out:
  - first basic inspection
  - identifying evergreen names
